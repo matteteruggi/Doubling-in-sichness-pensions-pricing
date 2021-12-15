@@ -1,5 +1,5 @@
 # Doubling in sickness pensions pricing
-A montecarlo simulation for pricing doubling in sichness pensions with a semi-markov chain.
+A montecarlo simulation for pricing doubling in sickness pensions with a semi-markov chain.
 Long term care is becoming a relevant aspect of our society, and a possible exit strategy comes
 from financial markets. In particular, doubling-in-sickness pensions might reveal helpfull in helping 
 for the constitution of a functioning LTC market. Instead of buyng a stand-alone LTC product, the insured buys an annuity that doubles
